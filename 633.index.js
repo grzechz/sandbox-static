@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemplate_with_fastify=self.webpackChunktemplate_with_fastify||[]).push([[633],{633:function(t,e,n){n.r(e),n.d(e,{Home:function(){return a}});var s=n(893);const a=()=>(0,s.jsx)(s.Fragment,{children:(0,s.jsx)("h1",{children:"Sandbox"})})}}]);
